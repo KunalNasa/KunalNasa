@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Nasa</h1>
 <h3 align="center">
-  A software enthusiast with a passion for software development and problem-solving. I'm proficient in Python, C, C++, HTML, and JavaScript. Currently, I'm diving deeper into backend JavaScript development to enhance my skills.
+ I’m a full-stack developer who loves turning ideas into cool and useful stuff. I enjoy fixing bugs (even if they drive me a little crazy) and coming up with creative solutions for all kinds of problems. When I’m not coding, I’m probably dreaming about new app ideas or testing out designs that I think are “genius” until reality proves otherwise. I like to keep learning, exploring new tools, and challenging myself because, honestly, it’s way more fun than being bored! 😄
+
 </h3>
 
 <h3 align="left">Connect with me:</h3>
