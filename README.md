@@ -1,11 +1,11 @@
 ## About Me:
-Hello there! I'm Kunal Nasa, a Full Stack Developer with expertise in the MERN stack and TypeScript. Currently, I'm pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that deliver meaningful value to users.
+Hello there! I'm Kunal Nasa, a Full Stack Developer with expertise in the MERN stack and Next.JS. Currently, I'm pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that deliver meaningful value to users.
 
 I thrive on creating interactive and user-friendly applications, with a focus on combining robust backends and elegant designs. Currently, I'm expanding my skills in system design and exploring the transformative potential of Generative AI to build innovative solutions.
 
 Beyond development, I enjoy solving challenging coding problems on GeeksforGeeks and Leetcode 
 
-All of my projects are available on my portfolio website: [kunalnasa.xyz/projects](https://kunalnasa.xyz).
+All of my projects are available on my portfolio website: [kunalnasa.xyz](https://kunalnasa.xyz).
 
 
 ## Languages and Tools
